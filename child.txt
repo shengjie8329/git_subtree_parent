@@ -1,2 +1,3 @@
 child
 second line
+third line
