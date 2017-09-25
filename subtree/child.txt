@@ -1,2 +1,4 @@
 child
 second line
+third line
+fourth line
